@@ -1,1 +1,1 @@
-print("Hello, CI/CD!")
+echo 'print("Hello, CI/CD!")'
